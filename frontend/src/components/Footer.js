@@ -24,7 +24,7 @@ export default function Footer() {
                   <p className="call">
                     Got Question? Call us 24/7
                     <span>
-                      <Link to="/">+0123 456 789</Link>
+                      <Link to="/">+0123 456 709</Link>
                     </span>
                   </p>
                 </div>
