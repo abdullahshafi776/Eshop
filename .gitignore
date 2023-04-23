@@ -10,7 +10,7 @@ node_modules/
 /coverage
 
 # production
-
+/frontend/public/assets/css
 
 # misc
 .DS_Store
