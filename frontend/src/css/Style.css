@@ -1496,7 +1496,7 @@ Version:1.0
 
 .hero-slider .single-slider {
     height: auto;
-    background-image: url('./images/sample-2.jpg');
+    background-image: url('../images/sample-2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

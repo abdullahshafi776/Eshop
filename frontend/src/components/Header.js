@@ -49,7 +49,7 @@ export default function Header() {
                     </li>
                     <li>
                       <AiOutlineMail />
-                      support@shophub.com
+                      support@eshop.com
                     </li>
                   </ul>
                 </div>
